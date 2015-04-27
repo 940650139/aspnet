@@ -176,13 +176,14 @@ ehthumbs.db
 
 # Folder config file
 Desktop.ini
+a.txt
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
 # Mac crap
 .DS_Store
-a.txt
+
 
 #############
 ## Python
